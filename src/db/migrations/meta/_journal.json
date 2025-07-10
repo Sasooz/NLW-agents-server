@@ -8,6 +8,13 @@
       "when": 1751945455056,
       "tag": "0000_high_grandmaster",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752115474332,
+      "tag": "0001_tricky_nomad",
+      "breakpoints": true
     }
   ]
 }
